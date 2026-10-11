@@ -1,0 +1,13 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+venv/
+env/
+.venv/
+
+# Streamlit secrets (เก็บรหัส/API key ไม่ให้อัปโหลดขึ้นสาธารณะ)
+.streamlit/secrets.toml
